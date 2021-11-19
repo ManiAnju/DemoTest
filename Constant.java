@@ -42,4 +42,12 @@ public class Constant {
 	public static final String READY_TO_LOAD_STATUS = "Ready to Load";
 	public static final String NULL_COLUMN_DATE = "01011900000000";
 	
+	public static final String INPROGRESS_STATUS2 = "InProgress2";
+	public static final String PENDING_STATUS2 = "Pending2";
+	public static final String PICKED_STATUS2 = "Picked2";
+	public static final String COMPLETE_STATUS2 = "Complete2";
+	public static final String READY_TO_LOAD_STATUS2 = "Ready to Load2";
+	public static final String NULL_COLUMN_DATE2 = "010119000000002";
+	
+	
 }
