@@ -48,6 +48,7 @@ public class Constant {
 	public static final String COMPLETE_STATUS2 = "Complete2";
 	public static final String READY_TO_LOAD_STATUS2 = "Ready to Load2";
 	public static final String NULL_COLUMN_DATE2 = "010119000000002";
+	public static final String NULL_COLUMN_DATE3 = "010119000000003";
 	
 	
 }
